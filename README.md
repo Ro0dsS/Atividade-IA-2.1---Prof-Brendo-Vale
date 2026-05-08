@@ -79,7 +79,7 @@ npx expo start
 
 ## Tela de Sucesso
 
-<img src="./src/prints/success.png" width="250"/>
+<img src="./src/prints/sucess.png" width="250"/>
 Navegação utilizada
 
 O projeto utiliza os métodos de navegação do Expo Router:
